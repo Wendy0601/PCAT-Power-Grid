@@ -1,4 +1,3 @@
-# Physics-constrainted-Adversarial-Training
 data:
 Training data: "train_data.mat"
 Testing data: 
